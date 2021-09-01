@@ -1,0 +1,5 @@
+Used Tableau to design a dashboard to display the Weeks of Supply and Balance on Hand for all the materials to effectively track 
+the supply for 27 weeks. 
+
+Dashboard Link :
+https://public.tableau.com/views/WeeksofSupplyBalanceonHand/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link
